@@ -1,3 +1,4 @@
+![LOH Token](./loh_token.png)
 # 🪙 LOH Token - Project LJM Clockwork
 
 ![LOH Token](https://img.shields.io/badge/LOH-Token-blue) ![Polygon](https://img.shields.io/badge/Polygon-Mainnet-purple) ![Supply](https://img.shields.io/badge/Supply-51,169,148-green)
